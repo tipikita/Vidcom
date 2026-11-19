@@ -1,5 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="🔴 [Live] Los Angeles Lakers vs Utah Jazz • NBA (10:00 WIB • 19/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Fbasketball%2Fteam%2Ffa6f985041ec3f9729172380ae9cebf8.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Fbasketball%2Fteam%2F8c88df221129169246c5b8a82955fa34.png%21w80" group-title="🏀 BASKET",🔴 [Live] Los Angeles Lakers vs Utah Jazz • NBA (10:00 WIB • 19/11/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://www.rbtv77.com
+#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
+#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
+https://iptv.amritv.my.id/script/rbtv/live/2275017.m3u8?sport=2&direct=1
 
+#EXTINF:-1 tvg-name="🔴 [Live] Utah Hockey Club vs Colorado Avalanche • National Hockey League (10:00 WIB • 19/11/2026)" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/hockey/competition/59da222ac4f4ade43404fb70fb64a558.png" group-title="🏒 HOKI",🔴 [Live] Utah Hockey Club vs Colorado Avalanche • National Hockey League (10:00 WIB • 19/11/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://www.rbtv77.com
+#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
+#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
+https://iptv.amritv.my.id/script/rbtv/live/2275238.m3u8?sport=11&direct=1
 
 #EXTINF:-1 tvg-name="⏳ [Upcoming] AFC Awards 2026 • AFC Awards 2026 (19:00 WIB • 19/11/2026)" tvg-logo="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/26bd.png" group-title="⚽ SEPAK BOLA",⏳ [Upcoming] AFC Awards 2026 • AFC Awards 2026 (19:00 WIB • 19/11/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
