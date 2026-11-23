@@ -1,246 +1,49 @@
-
-#EXTINF:-1 tvg-name="1 FC Twente vs Willem II • Eredivisie (18:15 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F7a2d0c79dd5d8589167c88684ac55aca.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F7b10a020a3acd1ed95d783a1dfa3498e.png%21w80" group-title="⚽ SEPAK BOLA",1 Eredivisie (18:15 WIB • 22/11/2026)
+#EXTINF:-1 tvg-name="⏳ [Upcoming] Spanyol U17 vs Fiji U17 • Piala Dunia U17 (19:30 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fe5858bd2ddb51631a85b1af22f5a1a6a.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F231eb5a29f502174b938f4bd140e19c6.png%21w80" group-title="⚽ SEPAK BOLA",2. Spanyol U17 vs Fiji U17 • Piala Dunia U17 (19:30 WIB • 23/11/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://www.rbtv77.com
 #EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
 #EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4416543.m3u8?sport=1&direct=1
+https://iptv.amritv.my.id/script/rbtv/live/4403963.m3u8?sport=1&direct=1
 
-#EXTINF:-1 tvg-name="2 Juventus FC vs Venezia • Serie A (18:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F3b1eace38b5847ab87a09bbdd885f1c4.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F217846278dae47c8955cf5eaa230e6e8.png%21w80" group-title="⚽ SEPAK BOLA",2 Juventus FC vs Venezia • Serie A (18:30 WIB • 22/11/2026)
+#EXTINF:-1 tvg-name="⏳ [Upcoming] Tajikistan U17 vs Kroasia U17 • Piala Dunia U17 (19:30 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F79d0360cd882c01f1ac008b3bb85feb3.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F0c383e8deecbd58d5cbdfd324132b91f.png%21w80" group-title="⚽ SEPAK BOLA",1. U17 vs Kroasia U17 • Piala Dunia U17 (19:30 WIB • 23/11/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://www.rbtv77.com
 #EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
 #EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4441497.m3u8?sport=1&direct=1
+https://iptv.amritv.my.id/script/rbtv/live/4404343.m3u8?sport=1&direct=1
 
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Persib Bandung vs Bali United • Liga 1 Indonesia (19:00 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fb2004093bf25a5a8d1768970d6e49d71.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F09fe2ecf88f68970da755f8655d5da8a.png%21w80" group-title="⚽ SEPAK BOLA",3 Persib Bandung vs Bali United • Liga 1 Indonesia (19:00 WIB • 22/11/2026)
+#EXTINF:-1 tvg-name="⏳ [Upcoming] Uzbekistan U17 vs Jamaica U17 • Piala Dunia U17 (20:00 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fdcd70ec917f47c6bf3bf086e67d4bc1e.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Ff7779710d2026dca44c41da7a9b7c748.png%21w80" group-title="⚽ SEPAK BOLA",3. Uzbekistan U17 vs Jamaica U17 • Piala Dunia U17 (20:00 WIB • 23/11/2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://www.rbtv77.com
 #EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
 #EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4474657.m3u8?sport=1&direct=1
+https://iptv.amritv.my.id/script/rbtv/live/4404336.m3u8?sport=1&direct=1
 
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Yunani U17 vs Panama U17 • Piala Dunia U17 (19:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F1da38e9fc1f765ffa964a0ab64c8d8fe.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fa159b2e2c6b3cb7bf0e92eb43fe27bdd.png%21w80" group-title="⚽ SEPAK BOLA",4 Yunani U17 vs Panama U17 • Piala Dunia U17 (19:30 WIB • 22/11/2026)
+#EXTINF:-1 tvg-name="⏳ [Upcoming] Senegal U17 vs Cuba U17 • Piala Dunia U17 (20:30 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F81a0c4689fb7ce553a0d5c2fd19b6efd.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F19406b9f645610fda9a0f6f27bdac710.png%21w80" group-title="⚽ SEPAK BOLA",4. Senegal U17 vs Cuba U17 • Piala Dunia U17 (20:30 WIB • 23/11/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://www.rbtv77.com
 #EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
 #EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4404330.m3u8?sport=1&direct=1
+https://iptv.amritv.my.id/script/rbtv/live/4404337.m3u8?sport=1&direct=1
 
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Denmark U17 vs Australia U17 • Piala Dunia U17 (19:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F685d3703a0b1410dc3bf2280eb5a15ec.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F2d8fe42de2f833581faa077f788329fa.png%21w80" group-title="⚽ SEPAK BOLA",5 Denmark U17 vs Australia U17 • Piala Dunia U17 (19:30 WIB • 22/11/2026)
+#EXTINF:-1 tvg-name="⏳ [Upcoming] Neftchi Fergana vs Al Hilal • AFC Champions League Elite (20:45 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F0df54f53d0057c630ead3234b4a68b45.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F07a555616afab7be32e00150eacf4197.png%21w80" group-title="⚽ SEPAK BOLA",5. Neftchi Fergana vs Al Hilal • AFC Champions League Elite (20:45 WIB • 23/11/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://www.rbtv77.com
 #EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
 #EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4404375.m3u8?sport=1&direct=1
+https://iptv.amritv.my.id/script/rbtv/live/4505732.m3u8?sport=1&direct=1
 
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Ekuador U17 vs Uganda U17 • Piala Dunia U17 (20:00 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F4bcd83a98bc4ee323ec93c0f0e704d04.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F81f7acabd411274fcf65ce2070ed568a.png%21w80" group-title="⚽ SEPAK BOLA",6 Ekuador U17 vs Uganda U17 • Piala Dunia U17 (20:00 WIB • 22/11/2026)
+#EXTINF:-1 tvg-name="⏳ [Upcoming] Italia U17 vs Pesisir Ivory U17 • Piala Dunia U17 (21:30 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F775bc655c77d679c193f1982dac04668.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F4ceefb51ae9ec399a69540c895f4519f.png%21w80" group-title="⚽ SEPAK BOLA",6. Italia U17 vs Pesisir Ivory U17 • Piala Dunia U17 (21:30 WIB • 23/11/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://www.rbtv77.com
 #EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
 #EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4404371.m3u8?sport=1&direct=1
+https://iptv.amritv.my.id/script/rbtv/live/4404327.m3u8?sport=1&direct=1
 
-#EXTINF:-1 tvg-name="⏳ [Upcoming] FC Barcelona vs Villarreal CF • La Liga (20:00 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fc88eb303b56b45b088944ed95dc3d443.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fc23f7906c95f439eafebb8575c30e7e3.png%21w80" group-title="⚽ SEPAK BOLA",7 FC Barcelona vs Villarreal CF • La Liga (20:00 WIB • 22/11/2026)
+#EXTINF:-1 tvg-name="⏳ [Upcoming] Maroko U17 vs China U17 • Piala Dunia U17 (22:00 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fd63036cfba56a5c3cb75ab14b33fe677.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fc04fddecf9b964a3f66a1aa28bba9625.png%21w80" group-title="⚽ SEPAK BOLA",7. Maroko U17 vs China U17 • Piala Dunia U17 (22:00 WIB • 23/11/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://www.rbtv77.com
 #EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
 #EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4433667.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Konyaspor vs Besiktas JK • Liga Super Turki (20:00 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fe75f8b4e1baab3060dbe5ba983a3b49c.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F12f2f63f8c3bda08b4a9f0a68ff1be85.png%21w80" group-title="⚽ SEPAK BOLA",8 Konyaspor vs Besiktas JK • Liga Super Turki (20:00 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4435920.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Perancis U17 vs Saudi Arabia U17 • Piala Dunia U17 (20:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F8eb4b4c01bf3375828c5494c2f6e7685.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fcf372cbe6eae54c6a6dfb3ebbcdc3404.png%21w80" group-title="⚽ SEPAK BOLA",9 Perancis U17 vs Saudi Arabia U17 • Piala Dunia U17 (20:30 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4405495.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] AFC Ajax vs ADO Den Haag • Eredivisie (20:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F187929503752357480bce47813a9741f.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F3dbce6bb7b1adc861642a7a1fc9b3796.png%21w80" group-title="⚽ SEPAK BOLA",10 AFC Ajax vs ADO Den Haag • Eredivisie (20:30 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4416541.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Sparta Rotterdam vs AZ Alkmaar • Eredivisie (20:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F73a60eae399442123eeb6f90b70cee8e.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fe52b745126bbb6bdddc90b91b44413ae.png%21w80" group-title="⚽ SEPAK BOLA",11 Sparta Rotterdam vs AZ Alkmaar • Eredivisie (20:30 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4416544.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Hull City vs Brighton &amp; Hove Albion FC • Liga Utama Inggris (21:00 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F3ea224dc0d114b898a52b6bf2c525d29.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F29083e9b799845be80570fa263aa5be7.png%21w80" group-title="⚽ SEPAK BOLA",12 Hull City vs Brighton & Hove Albion FC • Liga Utama Inggris (21:00 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4420340.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Paris FC vs Angers SCO • Ligue 1 (21:00 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F2687f671f7874ff6b42f079842b73d9f.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F78e28dea2dc74d2c94116589d17a0363.png%21w80" group-title="⚽ SEPAK BOLA",13 Paris FC vs Angers SCO • Ligue 1 (21:00 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4430852.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] U.S. Sassuolo Calcio vs Genoa • Serie A (21:00 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F616bf242a532f72e970648f2ead423cf.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F0bb9d6f52ebc48018824c0e63bd5479d.png%21w80" group-title="⚽ SEPAK BOLA",14 U.S. Sassuolo Calcio vs Genoa • Serie A (21:00 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4441496.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Bologna F.C. 1909 vs Udinese Calcio • Serie A (21:00 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fde1764657d2642e0893928e7ed86a19c.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Ffacf1e6e177848b3ac6a9405f2493c33.png%21w80" group-title="⚽ SEPAK BOLA",15 Bologna F.C. 1909 vs Udinese Calcio • Serie A (21:00 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4441504.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Korea Selatan U17 vs New Caledonia U17 • Piala Dunia U17 (21:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F6581bc34692022be4c21d98778e33df0.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F0cb656f78993ef2542ab838079ec9426.png%21w80" group-title="⚽ SEPAK BOLA",17 Korea Selatan U17 vs New Caledonia U17 • Piala Dunia U17 (21:30 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4404376.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Qatar U17 vs Mesir U17 • Piala Dunia U17 (22:00 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F7303a103c93fea0445384d6ff3f3d1b9.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F65a579da11fa712149bca347ecfcb208.png%21w80" group-title="⚽ SEPAK BOLA",19 Qatar U17 vs Mesir U17 • Piala Dunia U17 (22:00 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4404328.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] FC Augsburg vs 1. FSV Mainz 05 • Fußball-Bundesliga (21:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F0822c358867f4377a0260bb7d58a07a1.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F7f12d434d84d4f0f9fc87c1894baa89e.png%21w80" group-title="⚽ SEPAK BOLA",18 FC Augsburg vs 1. FSV Mainz 05 • Fußball-Bundesliga (21:30 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4423164.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Racing Santander vs Real Sociedad • La Liga (22:15 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F0747bed6010b493bbb243d7aaeb7e4a0.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F7a53e6d23881468e94c000bc6db40c3a.png%21w80" group-title="⚽ SEPAK BOLA",20 Racing Santander vs Real Sociedad • La Liga (22:15 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4433670.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Argentina U17 vs Mozambique U17 • Piala Dunia U17 (22:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F7d44a77ef7bf7d809287828b992f3007.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fd3b8cf8b9c797942fe68565e4ed2d8c3.png%21w80" group-title="⚽ SEPAK BOLA",21 Argentina U17 vs Mozambique U17 • Piala Dunia U17 (22:30 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4404374.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Uruguay U17 vs Haiti U17 • Piala Dunia U17 (22:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F3068cfc254b9a77c7eac84c9565eeeab.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F087bc7552322045ad94868390dce5b37.png%21w80" group-title="⚽ SEPAK BOLA",22 Uruguay U17 vs Haiti U17 • Piala Dunia U17 (22:30 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4405497.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Go Ahead Eagles vs Fortuna Sittard • Eredivisie (22:45 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Facc42732b97d91016e37952666003417.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F622951cb622289cb656f2a1a05edcb13.png%21w80" group-title="⚽ SEPAK BOLA",23 Go Ahead Eagles vs Fortuna Sittard • Eredivisie (22:45 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4416537.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Trabzonspor vs Eyupspor • Liga Super Turki (23:00 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F9dc9c8f928d5cafdc90a747fe0439c2d.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F5a15fbeafbace6653cf789b2a252615f.png%21w80" group-title="⚽ SEPAK BOLA",24 Trabzonspor vs Eyupspor • Liga Super Turki (23:00 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4435917.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] FC Lorient vs Stade Rennais • Ligue 1 (23:15 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F49f9b4c22a774fb7a506f50996b6942e.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fd845beab75524154b179cfb4f70da4e5.png%21w80" group-title="⚽ SEPAK BOLA",25 FC Lorient vs Stade Rennais • Ligue 1 (23:15 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4430855.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Liverpool vs Manchester United • Liga Utama Inggris (23:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fb3df4496e857030cbd50532969bad9a6.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F85f3bc66effc4225b0efb602bb5e85e3.png%21w80" group-title="⚽ SEPAK BOLA",26 Liverpool vs Manchester United • Liga Utama Inggris (23:30 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4420339.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] SV Werder Bremen vs Hamburger SV • Fußball-Bundesliga (23:30 WIB • 22/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F54a9f7be8dcf4bbdb76187f4f8e6400d.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Ff37d116acc7e493fbe5145834a7d1b07.png%21w80" group-title="⚽ SEPAK BOLA",27 SV Werder Bremen vs Hamburger SV • Fußball-Bundesliga (23:30 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4423155.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] AC Milan vs Frosinone • Serie A (00:00 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F4fda9a77bc9c4d8c97d68f792dbb95d1.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F6056c4b18e804ef0aec7331ef83c80e6.png%21w80" group-title="⚽ SEPAK BOLA",28 AC Milan vs Frosinone • Serie A (00:00 WIB • 23/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4441505.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Atalanta BC vs Inter Milan • Serie A (02:45 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F1fb162414c1d48018423ea8b749ac1b8.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fa8cd83c5eca342bbafa6ab8134c27e80.png%21w80" group-title="⚽ SEPAK BOLA",30 Atalanta BC vs Inter Milan • Serie A (02:45 WIB • 23/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4441500.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Osasuna vs Malaga • La Liga (00:30 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F08bced4593f94f6fa92bb6fb509e1f1f.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F57c2f658f8e348b985018c6d65c8caa0.png%21w80" group-title="⚽ SEPAK BOLA",29 Osasuna vs Malaga • La Liga (00:30 WIB • 23/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4433673.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Olympique de Marseille vs Le Mans FC • Ligue 1 (02:45 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2Fbf38710e138f43618dac312e088195bd.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F9846536cd7d74b17bf06b5dfb6ff5469.png%21w80" group-title="⚽ SEPAK BOLA",31 Olympique de Marseille vs Le Mans FC • Ligue 1 (02:45 WIB • 23/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4430857.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Getafe CF vs Atletico Madrid • La Liga (03:00 WIB • 23/11/2026)" tvg-logo="https://iptv.amritv.my.id/logo2/generate_vs.php?home=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F46f7af864f494251bb2f5e916d22048a.png%21w80&amp;away=https%3A%2F%2Flogos1.tcpwe138stya.ru%2Faelogo%2Ffootball%2Fteam%2F10cc5b7340144b8eb8238166e64bd62f.png%21w80" group-title="⚽ SEPAK BOLA",32 Getafe CF vs Atletico Madrid • La Liga (03:00 WIB • 23/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/4433664.m3u8?sport=1&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Algarve (Portugal) - Balapan (Race) • Moto2 (18:15 WIB • 22/11/2026)" tvg-logo="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3ce.png" group-title="🏎️ MOTOGP",2 Algarve (Portugal) - Balapan (Race) • Moto2 (18:15 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/2279095.m3u8?sport=7&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Algarve (Portugal) - Balapan (Race) • Moto3 (21:30 WIB • 22/11/2026)" tvg-logo="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3ce.png" group-title="🏎️ MOTOGP",4 Algarve (Portugal) - Balapan (Race) • Moto3 (21:30 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/2279096.m3u8?sport=7&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Algarve (Portugal) - Pemanasan (Warm up) • MotoGP (16:40 WIB • 22/11/2026)" tvg-logo="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3ce.png" group-title="🏎️ MOTOGP",1 Algarve (Portugal) - Pemanasan (Warm up) • MotoGP (16:40 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/2279093.m3u8?sport=7&direct=1
-
-#EXTINF:-1 tvg-name="⏳ [Upcoming] Algarve (Portugal) - Balapan 2 • MotoGP (20:00 WIB • 22/11/2026)" tvg-logo="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3ce.png" group-title="🏎️ MOTOGP",3 Algarve (Portugal) - Balapan 2 • MotoGP (20:00 WIB • 22/11/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
-https://iptv.amritv.my.id/script/rbtv/live/2279094.m3u8?sport=7&direct=1
+https://iptv.amritv.my.id/script/rbtv/live/4403956.m3u8?sport=1&direct=1
 
