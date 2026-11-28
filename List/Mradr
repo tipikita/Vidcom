@@ -1,14 +1,13 @@
-#EXTINF:-1 group-title="PLAYLIST ENDED" tvg-id="tv1.my" tvg-logo="https://i.pinimg.com/236x/14/d9/24/14d924bd576994eead6db27f9f67b429.jpg",PLAYLIST EXPAIR 
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bri1&type=m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="PLAYLIST ENDED", SILAHKAN HUBUNGI PENYEDIA
-https://ss04.silkanu.cc/data/2/672b034ebec21/hls720/672b034ebec21720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="PLAYLIST ENDED", TERIMA KASIH
-https://ss04.silkanu.cc/data/2/672b034ebec21/hls720/672b034ebec21720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="PLAYLIST ENDED", EXPIRED LINK
-https://ss04.silkanu.cc/data/2/672b034ebec21/hls720/672b034ebec21720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://livetv.rkda.my.id
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=live3&type=m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bri2&type=m3u8
