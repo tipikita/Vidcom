@@ -1,1 +1,14 @@
-#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bri1&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://livetv.rkda.my.id
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=live3&type=m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bri2&type=m3u8
